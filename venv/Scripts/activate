@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\Fadil\Desktop\project\Website analisis sentimen berdasarkan kalimat\venv"
+VIRTUAL_ENV="C:\React-Project\Sentimen-Analisis-Web-App\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
